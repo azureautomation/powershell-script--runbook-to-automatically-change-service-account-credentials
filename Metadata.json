@@ -1,0 +1,20 @@
+{
+    "Author": "Rich Shillington",
+    "ContentSize": 7398,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script--runbook-to-automatically-change-service-account-credentials/master/Invoke-ServiceAccountPasswordChange.ps1",
+    "DownloadCount": 1294,
+    "Id": "PowerShell-Script-Runbook-c2560ce7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 118,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-10-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script / runbook can be used to automatically update the credentials of service accounts on remote computers. This can be run as a standalone script or better yet, it can be automated using Azure Hybrid Automation!The script will default to 24-Character complex password",
+    "Title": "PowerShell Script / Runbook to Automatically Change Service Account Credentials",
+    "UpdatedDate": "2018-9-19T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script--runbook-to-automatically-change-service-account-credentials",
+    "UserTags": "Security, Microsoft Azure, Active Directory"
+}
